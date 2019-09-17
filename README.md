@@ -52,7 +52,7 @@ https://codepen.io/necolas/pen/PZzwBR
 
 The Following is the screenshot of the app.
 
-![Screen_Shot_2019-03-11_at_4.36.29_PM.png]()
+![Screen_Shot_2019-03-11_at_4.36.29_PM.png](https://github.com/dphuonganh/IntekWeatherApp/blob/master/Screen_Shot_2019-03-11_at_4.36.29_PM.png)
 
 
 ## Waypoint 1: Create a skeleton React Native app
@@ -82,7 +82,7 @@ https://facebook.github.io/react-native/docs/textinput
 
 When a text value is entered in textinput it will show the corresponding value in picker. In a way textinput and picker are synchronized.
 
-![Screen_Shot_2019-03-11_at_4.59.22_PM.png]()
+![Screen_Shot_2019-03-11_at_4.59.22_PM.png](https://github.com/dphuonganh/IntekWeatherApp/blob/master/Screen_Shot_2019-03-11_at_4.59.22_PM.png)
 
 
 ## Waypoint 5: Fetch API data
@@ -94,7 +94,7 @@ When a valid textinput is entered or when a picker value is selected we fetch th
 
 Display the data of the fetched API from Open Weather and stylize a component with images for each weather conditions to display interactive weather data.
 
-![Screen_Shot_2019-03-11_at_5.15.10_PM.png]()
+![Screen_Shot_2019-03-11_at_5.15.10_PM.png](https://github.com/dphuonganh/IntekWeatherApp/blob/master/Screen_Shot_2019-03-11_at_5.15.10_PM.png)
 
 
 ## Local JSON File
@@ -112,4 +112,4 @@ https://github.com/facebook/react-native-fbsdk
 
 Note that installing a wrapper doesn't always work directly. You would have to search for and find the best possible solutions to make it work.
 
-![Screen_Shot_2019-03-11_at_5.22.36_PM.json]()
+![Screen_Shot_2019-03-11_at_5.22.36_PM.json](https://github.com/dphuonganh/IntekWeatherApp/blob/master/Screen_Shot_2019-03-11_at_5.22.36_PM.json)
